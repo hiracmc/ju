@@ -1,0 +1,11 @@
+{
+    "require": {
+        "goldrush-developpement/easy-ui-builder": "dev-main"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/GoldRush-developpement/EasyUIBuilder"
+        }
+    ]
+}
